@@ -6,7 +6,7 @@
 
 <br/>
 
-I used React, React Router, Nodejs, Expressjs, MongoDB to build the project  .
+I used React, React Router, Nodejs, Expressjs, MongoDB, Bootstrap to build the project  .
 <br/>
 
 
